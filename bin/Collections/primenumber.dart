@@ -20,3 +20,51 @@ void main(List<String> args) {
   }
 }
 }
+
+
+
+
+
+
+ children: [
+//           Text('Login Page',style: GoogleFonts.sahitya(
+//             FontWeight:FontWeight.bold,
+//             fontSize:40,
+//             Color: Color.green),
+//
+//           ),
+//       SizedBox(
+//         height: 15,
+//       ),
+//       Text('Login your account', style: GoogleFonts.sahitya(
+//
+//         FontWeight:FontWeight.bold,
+//         fontSize:20,
+//         Color:Color.black),
+//       ),
+//       const SizedBox(
+//         height: 15,
+//       ),
+//
+//         TextFormField(),
+//         Decoration: const InputDecoration(
+//           preFixIcon:Icon(Icons.password_outlined),
+//           border:OutlineInputBorder(),
+//           labelText:'password',
+//           hintText:'Enter your password here',
+//           helperText:'Must contain upper and lower case'
+//
+//       const SizedBox(
+//         height:15,
+//       ),
+//       MaterialButton(
+//         onPressed:()
+//
+//
+//     )
+//         ],
+//
+//       ),
+//     );
+//   }
+// }
